@@ -3,7 +3,7 @@
   ### 오늘의 날씨 🌧
 <p align="center">
 
-![image](558b2889ff7e813ac2181279f3eb9086.gif)
+![image](5cff5ddc67935.jpg)
 
 </p>
 
