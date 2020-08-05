@@ -2,9 +2,8 @@
 
 ### Hello,world
 
-<p align="center">
 ![image](https://user-images.githubusercontent.com/26542929/89370132-f3f0fd80-d71a-11ea-8df7-dc29dd6c497c.png)
-</p>
+
 
 
 <!--
