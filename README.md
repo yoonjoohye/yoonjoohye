@@ -1,7 +1,7 @@
 <!--### Hello Juice World👋-->
 
 ### 오늘의 날씨
-![weather](/558b2889ff7e813ac2181279f3eb9086.gif| width=100)
+![weather](/558b2889ff7e813ac2181279f3eb9086.gif | width=100)
 
 
 <!--
