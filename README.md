@@ -1,8 +1,16 @@
 <!--### Hello Juice World👋-->
 
 ### 오늘의 날씨
-![image](https://user-images.githubusercontent.com/26542929/89368770-49c3a680-d717-11ea-9d59-79dfbfd2fbd5.png){ width=100% }
+![weather](https://user-images.githubusercontent.com/26542929/89368770-49c3a680-d717-11ea-9d59-79dfbfd2fbd5.png)
 
+```
+<style>
+img[alt="weather"] { 
+  width: 100%; 
+  display: block;
+}
+</style>
+```
 
 
 <!--
