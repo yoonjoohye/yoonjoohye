@@ -2,14 +2,11 @@
 
   ### 오늘의 날씨 🌧
 <p align="center">
-
-![image](5cff5ddc67935.jpg)
+  
+![image](https://user-images.githubusercontent.com/26542929/89370132-f3f0fd80-d71a-11ea-8df7-dc29dd6c497c.png)
 
 </p>
 
-<!--
-
-<img src="558b2889ff7e813ac2181279f3eb9086.gif" width="700" >
 
 <!--
 **yoonjoohye/yoonjoohye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
