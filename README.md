@@ -1,6 +1,6 @@
 <!--### Hello Juice World👋-->
 
-### 🌈 반갑습니다, 윤주혜입니다.
+### 🌈
 
 ![image](https://user-images.githubusercontent.com/26542929/89370132-f3f0fd80-d71a-11ea-8df7-dc29dd6c497c.png)
 
