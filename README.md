@@ -1,6 +1,6 @@
 <!--### Hello Juice World👋-->
 
-### 🌈 예쁜 것을 좋아하는 개발자
+### 🌈 뭐든 예쁘게 만드는 것을 좋아하는 FE 개발자입니다.
 
 ![image](https://user-images.githubusercontent.com/26542929/89370132-f3f0fd80-d71a-11ea-8df7-dc29dd6c497c.png)
 
