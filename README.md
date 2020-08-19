@@ -2,8 +2,7 @@
 # 윤주혜
 #### 👩🏻‍💻 사냥꾼 개발자입니다.
 
-![image](https://user-images.githubusercontent.com/26542929/90669786-1e02fd80-e28d-11ea-9fc7-63f33c011403.png)
-
+![image](https://user-images.githubusercontent.com/26542929/90670351-07a97180-e28e-11ea-8d77-05332a666822.png)
 
 <!--
 **yoonjoohye/yoonjoohye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
