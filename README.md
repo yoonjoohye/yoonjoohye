@@ -2,7 +2,7 @@
 # 윤주혜
 #### 👩🏻‍💻 유저지향 서비스와 예쁜 서비스 모두 잡고 싶어하는 사냥꾼 개발자
 
-[![Juice github stats](https://github-readme-stats.vercel.app/api?username=yoonjoohye)](https://github.com/yoonjoohye/github-readme-stats)
+[![Juice github stats](https://github-readme-stats.vercel.app/api?username=yoonjoohye)](https://yoonjoohye.xyz)
 
 <!--![image](https://user-images.githubusercontent.com/26542929/90670351-07a97180-e28e-11ea-8d77-05332a666822.png)-->
 
