@@ -1,6 +1,9 @@
 <!--### Hello Juice World👋-->
-# 윤주혜
-#### 👩🏻‍💻 유저지향 서비스와 예쁜 서비스 모두 잡고 싶어하는 사냥꾼 개발자
+# 👩🏻‍💻윤주혜
+##### ❤️ 예쁘게 만드는 것을 좋아합니다.
+##### 🧡 유저 지향 서비스로 만드는 것을 중요하게 여깁니다.
+##### 💛 Vue.js와 React.js를 공부하고 있습니다.
+
 
 [![Juice github stats](https://github-readme-stats.vercel.app/api?username=yoonjoohye)](https://yoonjoohye.xyz)
 
