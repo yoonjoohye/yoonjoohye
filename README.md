@@ -4,7 +4,7 @@
 ##### 💛 주로 Vue.js와 React.js를 사용합니다.
 
 
-[![Juice github stats](https://github-readme-stats.vercel.app/api?username=yoonjoohye)](https://yoonjoohye.xyz)
+<!--[![Juice github stats](https://github-readme-stats.vercel.app/api?username=yoonjoohye)](https://yoonjoohye.xyz)-->
 
 <!--![image](https://user-images.githubusercontent.com/26542929/90670351-07a97180-e28e-11ea-8d77-05332a666822.png)-->
 
