@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Juice's+GitHub!👋)](https://git.io/typing-svg)
 
+[![Mail](https://img.shields.io/badge/besoftyoon@gmail.com-fc5744?logo=gmail&logoColor=white)](mailTo:besoftyoon@gmail.com)
+
 > 변화는 있지만, 변함은 없이
 #
 🫂 I love giving value to customers by providing good service
@@ -9,9 +11,7 @@
 
 ✉️ Please feel free to [contact me](mailTo:besoftyoon@gmail.com) If you need further information.
 
-[![Mail](https://img.shields.io/badge/besoftyoon@gmail.com-fc5744?logo=gmail&logoColor=white)](mailTo:besoftyoon@gmail.com)
-[![Instagram](https://img.shields.io/badge/@juice_jpg-%23E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/juice_jpg/)
-
+<!--[![Instagram](https://img.shields.io/badge/@juice_jpg-%23E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/juice_jpg/)-->
 #
 📚 I'm using now
 
