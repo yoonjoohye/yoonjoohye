@@ -22,6 +22,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-ffc929.svg?logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-GraphQL-ff00c8?logo=graphql&logoColor=white)
 
+![Juice's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonjoohye&show_icons=true&theme=tokyonight)
+
 <!--
 ![React](https://img.shields.io/badge/react-f5f5f5.svg?logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-f5f5f5.svg?logo=vuedotjs&logoColor=%234FC08D)
