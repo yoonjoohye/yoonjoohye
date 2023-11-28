@@ -10,6 +10,7 @@
 🫂 I love giving value to customers by providing good service
 
 🏢 I've been working as a developer at Goodoc for 3 years
+#
 
 
 📚 I'm using now
