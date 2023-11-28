@@ -6,7 +6,7 @@
 [![Mail](https://img.shields.io/badge/besoftyoon@gmail.com-fc5744?logo=gmail&logoColor=white)](mailTo:besoftyoon@gmail.com)
 
 ✏️ I'm working on keeping these words 
-> 변화는 있지만,변함은 없이
+> 변화는 있지만, 변함은 없이
 
 🫂 I love giving value to customers by providing good service
 
