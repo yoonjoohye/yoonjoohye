@@ -6,11 +6,11 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailTo:besoftyoon@gmail.com)
 
 
-▶️ I've been working as a developer at Goodoc for 3 years.
+▶️ I've been working as a developer at Goodoc for 3 years
 
-▶️ I love giving value to customers by providing good service.
+▶️ I love giving value to customers by providing good service
 
-▶️ I'm working on keeping these words, “변화는 있지만, 변함은 없이”.
+▶️ I'm working on keeping these words &#10140; *변화는 있지만,변함은 없이*
 
 
 
