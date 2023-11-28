@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Juice's+GitHub!👋)](https://git.io/typing-svg)
 
+<!--[![Instagram](https://img.shields.io/badge/@juice_jpg-f5f5f5?logo=Instagram&logoColor=%23E4405F)](https://www.instagram.com/juice_jpg/)-->
+
+[![Mail](https://img.shields.io/badge/besoftyoon@gmail.com-f5f5f5?logo=gmail&logoColor=D14836)](mailTo:besoftyoon@gmail.com)
+
 ✏️ I'm working on keeping these words *변화는 있지만,변함은 없이*
 
 🫂 I love giving value to customers by providing good service
@@ -17,10 +21,9 @@
 ![JavaScript](https://img.shields.io/badge/-GraphQL-f5f5f5?logo=graphql&logoColor=ff00c8)
 
 
-✉️ contact me
 
-[![Instagram](https://img.shields.io/badge/@juice_jpg-f5f5f5?logo=Instagram&logoColor=%23E4405F)](https://www.instagram.com/juice_jpg/)
-[![Mail](https://img.shields.io/badge/besoftyoon@gmail.com-f5f5f5?logo=gmail&logoColor=D14836)](mailTo:besoftyoon@gmail.com)
+
+
 
 
 
