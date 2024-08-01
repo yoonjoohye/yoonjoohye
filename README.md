@@ -5,11 +5,6 @@
 
 > 변화는 있지만, 변함은 없이
 
-
-🫂 I love giving value to customers by providing good service
-
-🏢 I've been working as a developer at Goodoc for 3 years
-
 ✉️ Please feel free to [contact me](mailTo:besoftyoon@gmail.com) If you need further information
 
 <!--[![Instagram](https://img.shields.io/badge/@juice_jpg-%23E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/juice_jpg/)-->
